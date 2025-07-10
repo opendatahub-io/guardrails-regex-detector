@@ -23,7 +23,7 @@ spec:
   - name: revision
     value: '{{revision}}'
   - name: output-image
-    value: quay.io/opendatahub/regex-detector:v0.3.0
+    value: quay.io/opendatahub/regex-detector:latest
   - name: dockerfile
     value: Dockerfile
   - name: path-context
