@@ -12,7 +12,7 @@ metadata:
   creationTimestamp: null
   labels:
     appstudio.openshift.io/application: opendatahub-builds
-    appstudio.openshift.io/component: fms-guardrails-regex-detector
+    appstudio.openshift.io/component: fms-guardrails-regex-detector-ci
     pipelines.appstudio.openshift.io/type: build
   name: guardrails-regex-detector-on-push
   namespace: open-data-hub-tenant
